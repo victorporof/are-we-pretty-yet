@@ -1,0 +1,7 @@
+{
+  "name": "are-we-pretty-yet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Porof <victor.porof@gmail.com>",
+  "license": "MIT"
+}
