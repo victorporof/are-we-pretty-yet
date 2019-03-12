@@ -1,0 +1,10 @@
+{
+  "bin": "eslint",
+  "args": [
+    "\"$0\"",
+    "--fix",
+    "--no-eslintrc",
+    "--no-inline-config",
+    "--parser babel-eslint"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "--indent-size": [
+    2,
+    3,
+    4
+  ],
+  "--indent-with-tabs": [
+    ""
+  ],
+  "--end-with-newline": [
+    ""
+  ],
+  "--indent-level": [
+    0,
+    1,
+    2
+  ],
+  "--no-preserve-newlines": [
+    ""
+  ],
+  "--max-preserve-newlines": [
+    0,
+    10,
+    20
+  ],
+  "--space-in-paren": [
+    ""
+  ],
+  "--space-in-empty-paren": [
+    ""
+  ],
+  "--jslint-happy": [
+    ""
+  ],
+  "--space-after-anon-function": [
+    ""
+  ],
+  "--space-after-named-function": [
+    ""
+  ],
+  "--brace-style": [
+    "collapse",
+    "expand",
+    "end-expand",
+    "none",
+    "collapse,preserve-inline",
+    "expand,preserve-inline",
+    "end-expand,preserve-inline",
+    "none,preserve-inline"
+  ],
+  "--unindent-chained-methods": [
+    ""
+  ],
+  "--break-chained-methods": [
+    ""
+  ],
+  "--keep-array-indentation": [
+    ""
+  ],
+  "--unescape-strings": [
+    ""
+  ],
+  "--wrap-line-length": [
+    0,
+    80,
+    120,
+    140
+  ],
+  "--e4x": [
+    ""
+  ],
+  "--good-stuff": [
+    ""
+  ],
+  "--comma-first": [
+    ""
+  ],
+  "--operator-position": [
+    "before-newline",
+    "after-newline",
+    "preserve-newline"
+  ]
+}

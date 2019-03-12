@@ -1,0 +1,9 @@
+{
+  "bin": "js-beautify",
+  "args": [
+    "--file",
+    "\"$0\"",
+    "--replace",
+    "--type js"
+  ]
+}

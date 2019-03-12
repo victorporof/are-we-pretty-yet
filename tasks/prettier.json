@@ -1,0 +1,7 @@
+{
+  "bin": "prettier",
+  "args": [
+    "\"$0\"",
+    "--write"
+  ]
+}

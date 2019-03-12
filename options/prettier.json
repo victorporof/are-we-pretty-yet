@@ -1,0 +1,39 @@
+{
+  "--print-width": [
+    80,
+    120,
+    140
+  ],
+  "--tab-width": [
+    2,
+    3,
+    4
+  ],
+  "--use-tabs": [
+    ""
+  ],
+  "--no-semi": [
+    ""
+  ],
+  "--single-quote": [
+    ""
+  ],
+  "--jsx-single-quote": [
+    ""
+  ],
+  "--trailing-comma": [
+    "none",
+    "es5",
+    "all"
+  ],
+  "--no-bracket-spacing": [
+    ""
+  ],
+  "--jsx-bracket-same-line": [
+    ""
+  ],
+  "--arrow-parens": [
+    "avoid",
+    "always"
+  ]
+}
